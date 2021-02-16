@@ -9,7 +9,7 @@ body{
     z-index: 0;
     height: 50px;
     width: 100%;
-    background: rgb(52, 108, 110);
+    background: rgb(85, 115, 116);
 }
 .phone{
     z-index: 1;
@@ -51,17 +51,14 @@ body{
     color: black;
 }
 .social-icons p a:hover{
-    background: #aaa1a1;
+    background: #5c93ce;
     border-color: #201d1d;
 }
 .social-icons p a:hover i{
     color: white;
 }
 
-.bg-color{
- 
 
-}
 .navbar-brand{
     font-family: Caveat;
     color: rgb(12, 12, 12);
@@ -233,6 +230,9 @@ color: rgb(45, 160, 149);
 }
 
 .staff  h2{
+    font-family: Caveat;
+    
+    font-size: 75px;
     color: rgb(153, 58, 58);
 }
 .staff .chef .col-sm-3{
@@ -369,6 +369,6 @@ color: rgb(45, 160, 149);
 }
 
 .sticky-footer{
-    color: rgb(10, 8, 8);
+    color: white;
     background-color: yellow;
 }
